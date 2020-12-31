@@ -36,4 +36,5 @@ while(cap.isOpened()):
 cap.release()
 cv2.destroyAllWindows()
 
-    
+    #karie looks like shit and everyone knows it but is good enough not to tell it to her
+    #arre sachi muchi
