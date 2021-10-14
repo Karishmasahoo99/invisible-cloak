@@ -6,8 +6,8 @@ FASCINATED ABOUT :
 </p>
  
 ### TRY THIS CODE
-## Knowledge required:
+### KNOWLEDGE REQUIRED:
 
 <p align="center">
-   <img src="https://pyimagesearch.com/wp-content/uploads/2017/08/faster_for_loop_header.png" width="100px">
+   <img src="https://pyimagesearch.com/wp-content/uploads/2017/08/faster_for_loop_header.png" width="200px">
 </p>
