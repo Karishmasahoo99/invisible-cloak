@@ -1,8 +1,8 @@
 ### INVISIBLE CLOAK:
 
-Fascinated about :
+FASCINATED ABOUT :
 <p align="center">
-    <img src="https://media.tenor.com/images/faa9e42b41ccc3f00636d7eccf83ba21/tenor.gif" width="300px">
+    <img src="https://media.tenor.com/images/faa9e42b41ccc3f00636d7eccf83ba21/tenor.gif" width="500px" height="500px>
 </p>
  
 ### Try this code
