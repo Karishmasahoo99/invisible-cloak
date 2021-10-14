@@ -2,10 +2,10 @@
 
 FASCINATED ABOUT :
 <p align="center">
-    <img src="https://media.tenor.com/images/faa9e42b41ccc3f00636d7eccf83ba21/tenor.gif" width="500px" height="500px>
+    <img src="https://media.tenor.com/images/faa9e42b41ccc3f00636d7eccf83ba21/tenor.gif" width="300px">
 </p>
  
-### Try this code
+### TRY THIS CODE
 ## Knowledge required:
 
 <p align="center">
